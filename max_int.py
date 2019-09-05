@@ -1,4 +1,4 @@
-number = 1
+number = 0
 max_int = 0
 
 while number >= 0:
